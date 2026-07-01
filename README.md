@@ -7,4 +7,4 @@
 ลิงก์ไปยังไฟล์ Myname.md https://github.com/phakkaphonth-ctrl/select-topic-basic-git/blob/main/Myname.md
  
 ## Course
-ชื่อวิชาและภาคการศึกษา วิศวกรรมคอมพิวเตอร์
+ชื่อวิชาและภาคการศึกษา หัวข้อพิเศษทางด้านพัฒนาซอฟต์แวร์ ภาคเรียนที่1
